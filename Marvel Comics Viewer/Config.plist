@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>apiKeyPublic</key>
-	<string>2ed5f893c433149f70fbcace59dc152a</string>
+	<string>Please register for an account with MARVEL and paste the API Public Key here</string>
 	<key>apiKeyPrivate</key>
-	<string>e216a366ff3457b31aa30dd6d0771b1c6ca5f7a5</string>
+	<string>Please register for an account with MARVEL and paste the API Private Key here</string>
 	<key>rootURL</key>
 	<string>https://gateway.marvel.com:443</string>
 	<key>endpoints</key>
